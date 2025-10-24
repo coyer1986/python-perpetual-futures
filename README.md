@@ -1,0 +1,3 @@
+# Perpetual Futures
+
+🔄 Perpetuals
